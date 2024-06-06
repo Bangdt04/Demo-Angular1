@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "title": "uýad",
+      "image": "https://picsum.photos/id/237/200/300",
+      "price": 124,
+      "isShow": true,
+      "id": 2
+    },
+    {
+      "title": "",
+      "image": "",
+      "price": "",
+      "isShow": "",
+      "id": 3
+    },
+    {
+      "title": "124uakljr",
+      "image": "124",
+      "price": 124,
+      "isShow": true,
+      "id": 4
+    },
+    {
+      "title": "124",
+      "image": "124",
+      "price": 124,
+      "isShow": true,
+      "id": 5
+    }
+  ],
+  "users": []
+}
